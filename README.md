@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/mhmt.x0/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="mxhmetxd@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
@@ -32,10 +32,6 @@
 ## 📈 GitHub İstatistiklerim:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmtx4&show_icons=true&theme=light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtx4&layout=compact&theme=light)
-
-
 
 
 <!---
