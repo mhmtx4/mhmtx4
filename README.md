@@ -1,6 +1,6 @@
 # Selam, ben Mehmet👋
 
- 19 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 3.5 yıl önce başladığım yazılım serüvenine Full Stack Web Developing öğrencisi olarak devam ediyorum. Aktif olarak JavaScript & HTML & C++ ve Python diline hakimim.
+ 20 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 3.5 yıl önce başladığım yazılım serüvenine Full Stack Web Developing öğrencisi olarak devam ediyorum. Aktif olarak JavaScript & HTML & C++ ve Python diline hakimim.
 
 ## 🚀 Bildiğim Diller ve Teknolojiler:
 
