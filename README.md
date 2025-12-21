@@ -29,9 +29,7 @@
   </a>
 </p>
 
-## 📈 GitHub İstatistiklerim:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmtx4&show_icons=true&theme=light)
 
 
 <!---
